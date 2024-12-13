@@ -1,0 +1,54 @@
+{
+    "discord_token": "",
+    "keys": {
+        "voidai": ""
+    },
+    "urls": {
+        "voidai_base": "https://voidai.xyz/v1"
+    },
+    "presence": {
+        "status": "online",
+        "name": "with void.ai"
+    },
+    "colors": {
+        "red": "#FF0000",
+        "blue": "#0000FF",
+        "cyan": "#00FFFF",
+        "darkblue": "#0000A0",
+        "lightblue": "#ADD8E6",
+        "yellow": "#FFFF00",
+        "magenta": "#FF00FF",
+        "lime": "#00FF00",
+        "purple": "#800080",
+        "green": "#008000",
+        "black": "#000000",
+        "white": "#FFFFFF",
+        "voidblue": "#3F4AAA"
+    },
+    "ai_voices": [
+        {
+            "name": "Alloy",
+            "value": "Alloy"
+        },
+        {
+            "name": "Echo",
+            "value": "Echo"
+        },
+        {
+            "name": "Fable",
+            "value": "Fable"
+        },
+        {
+            "name": "Onyx",
+            "value": "Onyx"
+        },
+        {
+            "name": "Nova",
+            "value": "Nova"
+        },
+        {
+            "name": "Shimmer",
+            "value": "Shimmer"
+        }
+    ]
+}
