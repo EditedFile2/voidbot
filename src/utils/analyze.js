@@ -43,8 +43,6 @@ module.exports = {
                     }
                 ]
             });
-
-            // logger.log(JSON.stringify(response, undefined, 2))
             
             const transcript = response.choices[0].message.audio.transcript
             
