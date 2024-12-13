@@ -30,8 +30,7 @@ module.exports = {
         var embed = new EmbedBuilder()
         .setDescription(
             "🤖 **Bot Commands**\n\n" +
-            "/help - Help Command (this).\n" +
-            "/about voidbot - Information about voidbot.xyz.\n\n" +
+            "/help - Help Command (this).\n\n" +
     
             "🧠 **AI Commands**\n\n" +
             "/analyze - Analyzes an audio file according to a prompt.\n" + 
@@ -39,10 +38,7 @@ module.exports = {
             "/tts - Convert text to speech.\n" +
             "/stt - Convert speech to text.\n\n" +
             "/generate image - Generate an image using AI.\n" +
-            "/describe - Get a description for an image.\n\n" +
-    
-            "**Admin Controls**\n" +
-            "/set channel - Set a default channel for AI commands (server admin only)."
+            "/describe - Get a description for an image."
         )
         .setFooter({ 
             text: "voidbot.xyz", 
