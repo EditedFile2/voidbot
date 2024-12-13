@@ -17,7 +17,6 @@ const embeds = require('../../utils/embeds.js');
 
 
 module.exports = {
-    // deleted: true,
     name: 'generate',
     description: 'Generate an AI-based image. Note: Accuracy may vary. This command uses credits.',
     integration_types: [0, 1],
