@@ -18,7 +18,6 @@ const logger = require('../../utils/logger.js');
 const embeds = require('../../utils/embeds.js');
 
 module.exports = {
-    // deleted: true,
     name: 'tts',
     description: 'Convert text to speech audio.',
     integration_types: [0, 1],
