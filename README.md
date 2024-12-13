@@ -35,7 +35,7 @@ git clone https://github.com/EditedFile2/voidbot.git
 ### 2. Navigate to the Project Directory
 Move into the bot's folder:
 ```bash
-cd voidbot
+cd voidbot/src
 ```
 
 ### 3. Install Dependencies
