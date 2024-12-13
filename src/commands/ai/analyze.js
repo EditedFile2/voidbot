@@ -14,7 +14,6 @@ const embeds = require('../../utils/embeds.js');
 const { analyze } = require('../../utils/analyze.js');
 
 module.exports = {
-    // deleted: true,
     name: 'analyze',
     description: 'Analyze an audio file.',
     integration_types: [0, 1],
