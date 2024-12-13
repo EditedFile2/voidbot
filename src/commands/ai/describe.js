@@ -17,7 +17,6 @@ const { describeImage } = require('../../utils/describeImage.js')
 const logger = require('../../utils/logger.js');
 
 module.exports = {
-    // deleted: true,
     name: 'describe',
     description: 'Describes the image you give it. (Note: results may not be 100% accurate)',
     integration_types: [0, 1],
