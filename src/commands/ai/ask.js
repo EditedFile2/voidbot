@@ -15,7 +15,6 @@ const config = require('../../../config.json');
 var ask_history = {};
 
 module.exports = {
-    // deleted: true,
     name: 'ask',
     description: 'Ask a single prompt.',
     integration_types: [0, 1],
