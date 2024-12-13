@@ -20,7 +20,6 @@ const logger = require('../../utils/logger.js');
 const embeds = require('../../utils/embeds.js');
 
 module.exports = {
-    // deleted: true,
     name: 'stt',
     description: 'Convert speech audio to text.',
     integration_types: [0, 1],
